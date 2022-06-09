@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Netlify
-https://próspero-cupcake-0c37ee.netlify.app
+https://thriving-cupcake-0c37ee.netlify.app/
